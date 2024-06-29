@@ -1,1 +1,2 @@
 this is our first class on vcs
+trying to perform a merge
